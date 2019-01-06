@@ -1,0 +1,3 @@
+#!/bin/sh
+# Usage: python receiver.py <receiver port> <filename>
+python receiver.py 7999 test0_r.pdf
